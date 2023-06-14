@@ -1,7 +1,7 @@
 # Let-us-talk-through-gesture-vocalizer
 
 Team members:
-Thejaswii S Acharya,
+Thejaswini S Acharya,
 Vaibhavi V Badiger,
 Yashaswini M,
 Sulaksha Sayeesh Padti.
