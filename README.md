@@ -16,7 +16,7 @@ Hardware Coonnection:
 Attach Copper sheets to each figer tips and place jumper wires to each fingers.
 
 1} Arduino Nano:
-i) Thumb finger - GND
+i) Thumb finger - GND\n
 ii) Index finger - A0
 iii) Middle finger - A1
 iv) Ring finger -A2
