@@ -1,14 +1,14 @@
 # Let-us-talk-through-gesture-vocalizer
 
 Team members:
-Thejaswii S Acharya
-Vaibhavi V Badiger
-Yashaswini M
+Thejaswii S Acharya,
+Vaibhavi V Badiger,
+Yashaswini M,
 Sulaksha Sayeesh Padti
 
 Under the guidence of:
-Prof. Prasad A M, Assistant Professor, CSE, DSCE bangalore
-and
+Prof. Prasad A M, Assistant Professor, CSE, DSCE bangalore. 
+and 
 Mr. Sumit Sagar, Co-Guide, Walmart-Retail
 
 "Let us talk through gesture vocalizer" is an IoT based project Which Recognizes the Sign language gestures and produce outputin the form of text and voice using the mobile application.
