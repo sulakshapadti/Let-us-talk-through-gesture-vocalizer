@@ -12,7 +12,9 @@ and
 Mr. Sumit Sagar, Co-Guide, Walmart-Retail.
 
 "Let us talk through gesture vocalizer" is an IoT based project Which Recognizes the Sign language gestures and produce outputin the form of text and voice using the mobile application.
+
 Hardware Coonnection:
+
 Attach Copper sheets to each figer tips and place jumper wires to each fingers.
 
 1} Arduino Nano:
