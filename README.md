@@ -17,7 +17,7 @@ Hardware Connection:
 
 Attach Copper sheets to each fingertip and place jumper wires on each finger.
 
-1} Arduino Nano:
+1)Arduino Nano:
 
 Thumb finger - GND
 
@@ -29,7 +29,7 @@ Ring finger -A2
 
 Pinky finger - A3
 
-2} Accelerometer(ADXL335}:
+2)Accelerometer(ADXL335}:
 
 X-pin - A5
 
