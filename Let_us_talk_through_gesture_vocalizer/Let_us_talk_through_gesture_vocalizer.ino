@@ -1,7 +1,7 @@
 /*
-NAME OF THE PROJECT : LET US TALK THROUGH GESTURE VOCALIZER
+NAME OF THE PROJECT: LET US TALK THROUGH GESTURE VOCALIZER
 TEAM MEMBERS: THEJASWINI(1DS19CS181), VAIBHAVI(1DS19CS184), YASHASWINI(1DS19CS195), SULAKSHA(1DS20CS420)
-GUIDE: PROF. PRASAD AM, Asiistant Professor, CSE, DSCE Bangalore.
+GUIDE: PROF. PRASAD AM, Assistant Professor, CSE, DSCE Bangalore.
 CO-GUIDE: SUMIT SAGAR, Walmart-Retail.
 */
 
@@ -15,6 +15,7 @@ int y=A6;
 int z=A7;
 int data1=0,X,Y,Z;
 
+/*
 int v1=2;
 int v2=3;
 int v3=4;
@@ -23,7 +24,7 @@ int v5=6;
 int v6=7;
 int v7=8;
 int v8=9;
-
+*/
 void setup()
 {
   Serial.begin(9600);
